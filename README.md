@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Copyright::Tool::Argosto::Renderer.copyright 'Jordan Hudgens', 'All rights reserved'
+```
 
 ## Development
 
