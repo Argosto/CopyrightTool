@@ -1,4 +1,5 @@
 require "copyright/tool/argosto/version"
+require "copyright/tool/argosto/renderer"
 
 module Copyright
   module Tool
